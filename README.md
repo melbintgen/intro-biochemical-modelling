@@ -143,7 +143,9 @@ julia> julia> Pkg.add([
            "DifferentialEquations",
            "Plots",
            "Random",
-           "Distributions"
+           "Distributions",
+           "Latexify",
+           "DiffEqCallbacks"
        ])
 ```
 
